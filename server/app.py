@@ -1,4 +1,5 @@
 # server/app.py
+# Contains the code to configure and connect a web server to a database.
 
 from flask import Flask
 from flask_migrate import Migrate
